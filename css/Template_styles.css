@@ -1,0 +1,22 @@
+/* font-family: 'Open Sans', sans-serif; */
+
+body{
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	padding-top: 36px;
+}
+.imagen_drop{
+	background: url(../imagenes/imagen_drop.png);
+	position: absolute;
+	background-size: cover;
+	height: 880px;
+	width: 1920px;
+	left: 0;
+}
+.imagen_gota{
+	background: url(../imagenes/gota.png);
+	position: absolute;
+	height: 258.94px;
+	width: 218px;
+	left: 849px;
+}
