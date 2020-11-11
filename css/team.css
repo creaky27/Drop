@@ -1,0 +1,79 @@
+@font-face{
+    font-family: Open-Sans;
+    src: url(OpenSans-Regular.ttf)
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.titulo h2{
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 49px;
+    color: #222222;
+    margin-top: 100px;
+}
+.titulo p{
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 26px;
+    color: #777777;
+}
+.imagen-john{
+    border-radius: 8px;
+    width: 255px;
+    height: 255px;
+    background: url(../imagenes/John.jpg);
+    margin-top: 100px;
+}
+.imagen-adam{
+    border-radius: 8px;
+    width: 255px;    
+    height: 255px;
+    background: url(../imagenes/Adam.jpg);
+    margin-top: 100px;
+}
+.imagen-kevi{
+    border-radius: 8px;
+    width: 255px;
+    height: 255px;
+    background: url(../imagenes/Kevi.jpg);
+    margin-top: 100px;
+}
+.imagen-vicky{
+    border-radius: 8px;
+    width: 255px;
+    height: 255px;
+    background: url(../imagenes/Vicky.jpg);
+    margin-top: 100px;
+}
+.photos h5{
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
+.frase{ 
+    position: absolute;
+    height: 370px;
+    width: 1349px;
+    top: 733px;
+    left: 0;
+    background: #f2f2f2;
+}
+.frase h3{
+    font-weight: lighter;
+    font-size: 36px;
+    margin-top: 137px;
+}
+.frase h6{
+    font-weight: normal;
+    font-size: 20px;
+    margin-bottom: 139px;
+    color: #000000;
+}
+.parte_rosa{
+    background: #FFD7D4;
+    height: 20px;
+    width: 1349px;
+    position: absolute;
+    left: 0px;
+}
